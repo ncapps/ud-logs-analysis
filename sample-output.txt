@@ -1,0 +1,12 @@
+Top 3 Articles - Ranked by View Count.
+"Candidate is jerk, alleges rival" - 338,647 views
+"Bears love berries, alleges bear" - 253,801 views
+"Bad things gone, say good people" - 170,098 views
+
+Top 3 Authors - Ranked by Total Article View Count.
+Ursula La Multa - 507,594 views
+Rudolf von Treppenwitz - 423,457 views
+Anonymous Contributor - 170,098 views
+
+Days Where 1% of Requests Ended in Error.
+July 17, 2016 - 2.32% errors
